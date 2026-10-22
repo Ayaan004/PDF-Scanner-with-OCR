@@ -1,0 +1,20 @@
+This is a sample text file to test the OCR application.
+
+You can use this as a reference for what the extracted text output might look like.
+
+The application supports:
+- PDF documents
+- PNG, JPG, JPEG images
+- BMP and TIFF images
+- Batch processing
+- Multiple output formats
+
+For best results:
+1. Use high-resolution images (300 DPI recommended)
+2. Enable the "Enhance image quality" option
+3. Ensure the document has good contrast
+4. Avoid blurry or low-quality scans
+
+The OCR engine uses Tesseract, which is one of the most accurate open-source OCR engines available.
+
+Enjoy using the PDF Scanner with OCR!
